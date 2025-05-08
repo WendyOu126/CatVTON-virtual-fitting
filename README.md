@@ -1,8 +1,8 @@
 # CatVTON-Virtual-Fitting
 
 ## Group Members
-group leader:欧阳雨琪(Github:@WendyOu126)
-group members:盛夏(@summerok03)  尹雅萱(@ddoulibra2y)  施承熙(@AlphaXnevermind)  黄俊彬(@mgmsk0923)
+group leader:  欧阳雨琪(Github:@WendyOu126)  
+group members:  盛夏(@summerok03)  、尹雅萱(@ddoulibra2y)  、施承熙(@AlphaXnevermind)  、黄俊彬(@mgmsk0923)
 
 ## structure
 ```
@@ -22,7 +22,7 @@ main/
 ├── requirements.txt         # 依赖项
 ├── LICENSE                  # 许可证
 └── README.md                # 项目说明文档
-
+```
 ## Updates 
 
 ## Installation
