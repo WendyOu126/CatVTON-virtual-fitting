@@ -24,7 +24,8 @@ main/
 └── README.md                # 项目说明文档
 ```
 ## Updates 
-
+# 2025.5.22 
+我们从各种电商网站收集已经收集了春夏部分的各800对服装-模特数据并更新到datasets中。
 ## Installation
 
 Create a conda environment & Install requirments
