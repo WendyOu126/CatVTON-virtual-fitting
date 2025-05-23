@@ -25,7 +25,11 @@ main/
 ```
 ## Updates 
 ### 2025.5.22 
-我们从各种电商网站收集已经收集了春夏部分的各800对服装-模特数据并更新到datasets中。
+我们从各种电商网站收集已经收集了春夏部分的各800对服装-模特数据。数据保存在百度网盘中：
+```shell
+通过网盘分享的文件：CatCTON-dataset
+链接: https://pan.baidu.com/s/1VD8b65RBxxag5BCOzPw7tA?pwd=vteh 提取码: vteh
+```
 ## Installation
 
 Create a conda environment & Install requirments
