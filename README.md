@@ -30,6 +30,8 @@ main/
 通过网盘分享的文件：CatCTON-dataset
 链接: https://pan.baidu.com/s/1oI1H0N2W8B70kAISj5I8_Q?pwd=j6jf 提取码: j6jf 
 ```
+### 2025.6.9
+我们对收集的数据进行了分类和生成匹配对操作，方便后续模型输入，并进行了模型需要的有掩码制作。
 ## Installation
 
 Create a conda environment & Install requirments
